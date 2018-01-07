@@ -1,1 +1,1 @@
-Please see the Wiki [here](https://github.com/Ethereum-community/Ethereum-introduction/wiki/Ethereum-introduction).
+This is now maintained [here](https://github.com/ethereum/wiki/wiki/Ethereum-introduction.md).
