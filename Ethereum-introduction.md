@@ -1,3 +1,5 @@
+This is now maintained [here](https://github.com/ethereum/wiki/wiki/Ethereum-introduction.md).
+
 ![Ethereum Homestead gold ingots](https://sustergy.files.wordpress.com/2017/05/ethereum-homestead-background-17.jpg?w=1000)
 
 Note that due to the lightning-fast pace of development in the Ethereum space with core development and dapps continually being launched, certain parts of this article may be outdated. You can help by keeping it up to date!
